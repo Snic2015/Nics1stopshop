@@ -160,7 +160,7 @@ header.logo {
 }
 
 header .logo: hover {
-  transform: scale(.95);
+  transform: scale(.75);
 }
 .hero {
   position: relative;
